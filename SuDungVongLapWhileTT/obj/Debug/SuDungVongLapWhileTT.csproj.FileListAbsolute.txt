@@ -1,0 +1,7 @@
+C:\Users\NN\Desktop\MyApp\SuDungVongLapWhileTT\bin\Debug\SuDungVongLapWhileTT.exe.config
+C:\Users\NN\Desktop\MyApp\SuDungVongLapWhileTT\bin\Debug\SuDungVongLapWhileTT.exe
+C:\Users\NN\Desktop\MyApp\SuDungVongLapWhileTT\bin\Debug\SuDungVongLapWhileTT.pdb
+C:\Users\NN\Desktop\MyApp\SuDungVongLapWhileTT\obj\Debug\SuDungVongLapWhileTT.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\MyApp\SuDungVongLapWhileTT\obj\Debug\SuDungVongLapWhileTT.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\MyApp\SuDungVongLapWhileTT\obj\Debug\SuDungVongLapWhileTT.exe
+C:\Users\NN\Desktop\MyApp\SuDungVongLapWhileTT\obj\Debug\SuDungVongLapWhileTT.pdb
