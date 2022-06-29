@@ -1,0 +1,7 @@
+C:\Users\NN\Desktop\MyApp\HinhHoc\bin\Debug\HinhHoc.exe.config
+C:\Users\NN\Desktop\MyApp\HinhHoc\bin\Debug\HinhHoc.exe
+C:\Users\NN\Desktop\MyApp\HinhHoc\bin\Debug\HinhHoc.pdb
+C:\Users\NN\Desktop\MyApp\HinhHoc\obj\Debug\HinhHoc.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\MyApp\HinhHoc\obj\Debug\HinhHoc.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\MyApp\HinhHoc\obj\Debug\HinhHoc.exe
+C:\Users\NN\Desktop\MyApp\HinhHoc\obj\Debug\HinhHoc.pdb
