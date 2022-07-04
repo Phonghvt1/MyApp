@@ -54,14 +54,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="UngDung1.exe" size="136080">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="UngDung1.exe" size="143248">
       <assemblyIdentity name="UngDung1" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>+TSy9KRrCc5bxSaPpzrsOHdkA47fhBxCCSIw9tEgFtM=</dsig:DigestValue>
+        <dsig:DigestValue>UQNHpGjDWs7UbfJe180iPBQwmdK4GAGZ85phSTrcZEk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

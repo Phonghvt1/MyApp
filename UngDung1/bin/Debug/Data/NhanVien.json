@@ -1,17 +1,1 @@
-﻿[
-  {
-    "Username": "teonguyen",
-    "Password": "123456",
-    "FullName": "Nguyen Van Teo"
-  },
-  {
-    "Username": "admin",
-    "Password": "123456",
-    "FullName": "Quan Tri"
-  },
-  {
-    "Username": "tinv",
-    "Password": "123456",
-    "FullName": "Quan Tri"
-  }
-]
+[{"Username":"admin","Password":"123456","FullName":"Quan Tri"},{"Username":"tinv","Password":"123456","FullName":"Quan Tri"},{"Username":"phonghvt123","Password":"123456789","FullName":"Tran The Phong"},{"Username":"NgocNgan1","Password":"123456","FullName":"Nguyen Ngoc Ngan"},{"Username":"asdzxc","Password":"zxc","FullName":"asd"},{"Username":"teonguyen","Password":"12345678","FullName":"Nguyen Van Teo 1"}]
